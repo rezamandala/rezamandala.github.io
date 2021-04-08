@@ -560,7 +560,7 @@ strong, b{
 4. Match Facts
 ============================= */
 .stat-facts{
-	background:url('http://placehold.it/1920x400') no-repeat center center; 
+	background: #202020;
 	-webkit-background-size: cover; 
 	-moz-background-size: cover; 
 	-o-background-size: cover; 
@@ -724,7 +724,7 @@ strong, b{
 	padding: 20px 20px;
 }
 .tab-content-bg{
-	background: url('http://placehold.it/1920x700') top center;
+	background: #ddd;
 	-webkit-background-size: cover; 
 	-moz-background-size: cover; 
 	-o-background-size: cover; 
@@ -1723,7 +1723,7 @@ td.tw10{
 	background-color: #29ABE2;
 }
 .bg-client{
-	background:url('http://placehold.it/1920x700') no-repeat center center; 
+	background:url('../images/sponsor.jpg') no-repeat center center; 
 	-webkit-background-size: cover; 
 	-moz-background-size: cover; 
 	-o-background-size: cover; 
