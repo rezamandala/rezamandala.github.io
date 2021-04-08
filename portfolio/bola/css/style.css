@@ -233,7 +233,7 @@ p {
 	padding-bottom: 60px;
 }
 .bg-section{
-	background:url('http://placehold.it/1920x700') no-repeat center center; 
+	background: #ddd no-repeat center center; 
 	-webkit-background-size: cover; 
 	-moz-background-size: cover; 
 	-o-background-size: cover; 
@@ -1044,7 +1044,7 @@ td.tw10{
 	background: linear-gradient(to bottom, #3DB9F3 0%, #086BA9 100%);
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3DB9F3', endColorstr='#086BA9', GradientType=0 );
 }
-.position .rmf{
+.position .cmf{
 	background: #29A143;
 	background: -moz-linear-gradient(top, #82C23F 0%, #0C863C 100%);
 	background: -webkit-gradient(left top, left bottom, color-stop(0%, #82C23F), color-stop(100%, #0C863C));
