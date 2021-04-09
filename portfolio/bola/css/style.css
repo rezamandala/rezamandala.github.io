@@ -513,7 +513,7 @@ strong, b{
 }
 
 .subbanner{
-	background:url('http://placehold.it/1920x400') no-repeat center center;
+	background:url('../images/subbanner.jpg'); 
 	-webkit-background-size: cover; 
 	-moz-background-size: cover; 
 	-o-background-size: cover; 
@@ -767,7 +767,7 @@ td.tw10{
     padding-bottom: 60px;
 }
 .bg-coach {
-    background:url('http://placehold.it/1920x700') no-repeat center center; 
+    background: #ddd; 
 	-webkit-background-size: cover; 
 	-moz-background-size: cover; 
 	-o-background-size: cover; 
