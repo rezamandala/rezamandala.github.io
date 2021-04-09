@@ -1,8 +1,5 @@
 /*
-Template Name: Prosoccer - Laundry Business Html Template
-Template URI: rudhisasmito.com/demo/prosoccer
-Author: Rudhi Sasmito
-Author URI: https://www.behance.net/rudhisasmito
+Template URI: persissolo.id
 Version: 1.0
 -----------------------------------------------------------------
 
@@ -1121,8 +1118,8 @@ td.tw10{
 .team-tab .tab-content {
     padding: 0px 0px;
 }
-.tab-team-bg{
-	background: url('http://placehold.it/1920x700') top center;
+.tab-team-bg{	
+	background:url('../images/slide3.jpg') top center; 
 	-webkit-background-size: cover; 
 	-moz-background-size: cover; 
 	-o-background-size: cover; 
